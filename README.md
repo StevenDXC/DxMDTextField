@@ -11,11 +11,11 @@ useage:
 ```swift
 let textField = MDTextField.init(frame: CGRectMake(x, y, width, height))
 ```
-show error：
+show error message：
 ```swift
 textField.setErrorMsg("error message")
 ```
-hide error:
+hide error message:
 ```swift
 textField.setErrorMsg(nil)
 ```
