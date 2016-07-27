@@ -2,7 +2,10 @@
 Material Design EditText for IOS
 
 demo:
-![image](https://github.com/StevenDXC/ListIndexView/blob/master/Image/demo.gif)
+
+![image](https://github.com/StevenDXC/DxMDTextField/blob/master/img/demo.gif)
+
+
 
 useage:
 ```swift
