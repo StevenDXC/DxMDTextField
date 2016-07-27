@@ -1,6 +1,9 @@
 # DxMDTextField
 Material Design EditText for IOS
 
+demo:
+![image](https://github.com/StevenDXC/ListIndexView/blob/master/Image/demo.gif)
+
 useage:
 ```swift
 let textField = MDTextField.init(frame: CGRectMake(x, y, width, height))
